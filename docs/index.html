@@ -10,7 +10,7 @@ title: My Blog
     <span class="date">{{ post.date }}</span>
   </p>
   <div class="content">
-    {{ post.content }}
+    {% include toc.html html=post.content %}
   </div>
 {% endfor %}
 
