@@ -31,7 +31,7 @@ If you often forget to give out inspiration
 
 If you want to reward good roleplaying without 
 
-If you want give your players
+If you want give your players a mechanical reason to become more involved in the story
 
 ## Inspired Inspiration
 
@@ -200,7 +200,7 @@ A first level character will probably start off with two to five facets. Each le
 
 In earlier examples, we looked at play examples including two characters, Steve and Finellen. This is what those characters might look like after running the campaign for a while. Steve's player has noted the associated change for every facet while Finellen's player (Lenna) has only recorded the list of facets. Either approach is acceptable.
 
-### Steve, 6th level Elf Ranger
+**Steve, 6th level Elf Ranger**
 | Change | Facet |
 |:----|:----|
 | Background (Entertainer)  | *show-off* |
@@ -218,13 +218,13 @@ In earlier examples, we looked at play examples including two characters, Steve 
 | Spell (Silence)| *cacophony of sand* |
 | Story | *curse of Al'akir* |
 
-### Finellen, Cleric ~~of Sune~~ (2nd) rhymes with s'morelock (2nd)
+**Finellen, Cleric ~~of Sune~~ (2nd) rhymes with s'morelock (2nd)**
 * *~~down to earth~~*
 * *~~Sune's Effulgence~~*
 * *center of attention*
 * *a light in the darkness*
 * *let no insult go unpunished*
-* *burn now, sort later*
+* *burn notice*
 * *the dwarf formerly known as Sune's Effulgence*
 * *Al'akir's brand*
 * *fire consumes*
