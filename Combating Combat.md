@@ -1,10 +1,35 @@
----
-extensions:
-  preset: gfm
+<!DOCTYPE html>
+<html>
 
----
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Combating Combat</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
-<h1 id="combating-combat-better-adventuring-days-by-utilizing-all-your-resources.">Combating Combat: Better adventuring days by utilizing all your resources.</h1>
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#combating-combat-better-adventuring-days-by-utilizing-all-your-resources.">Combating Combat: Better adventuring days by utilizing all your resources.</a>
+<ul>
+<li><a href="#a-case-for-combating-combat">A Case for Combating Combat</a></li>
+<li><a href="#when-to-use-these-rules">When to use these rules</a></li>
+<li><a href="#combating-combat">Combating Combat</a></li>
+<li><a href="#appendix-expendable-resources">Appendix: Expendable Resources</a></li>
+<li><a href="#appendix-rundown">Appendix: Rundown</a></li>
+<li><a href="#appendix-glossary">Appendix: Glossary</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="combating-combat-better-adventuring-days-by-utilizing-all-your-resources.">Combating Combat: Better adventuring days by utilizing all your resources.</h1>
 <h2 id="a-case-for-combating-combat">A Case for Combating Combat</h2>
 <p>Issues</p>
 <ul>
@@ -241,3 +266,8 @@ terms of blame. They all split the rewards from the CR 6 encounter.</p>
 <p><strong>encounter challenge</strong> = <strong>encounter tier</strong> * # of player characters</p>
 </blockquote>
 
+    </div>
+  </div>
+</body>
+
+</html>
