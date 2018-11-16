@@ -27,11 +27,11 @@ title: "Inspired Inspiration"
 
 ## When to Use These Rules
 
-If you often forget to give out inspiration
+If you often forget to give out inspiration.
 
-If you want to reward good roleplaying without 
+If you have given up on inspiration.
 
-If you want give your players a mechanical reason to become more involved in the story
+If you want give your players a mechanical reason to become more involved in the story.
 
 ## Inspired Inspiration
 
@@ -43,7 +43,24 @@ If you want give your players a mechanical reason to become more involved in the
 
 **Significant Change**
 
-A significant change may be either a mechanical or narrative change with a substantial impact on your character. Mechanical changes may include gaining a class feature, learning a new feat or gaining a racial feature. Narrative changes may include receiving the boon of a god, the bounty of a dragon's horde or the ire of a scorned lover. 
+A significant change may be either a mechanical or narrative change with a substantial impact on your character. 
+
+Mechanical changes may include:
+* gaining a class feature
+* learning a new feat 
+* gaining a racial feature
+
+> When you want to write something on your character sheet, there is a
+> good chance it is a mechanical change. It's significance is up to you.
+
+Narrative changes may include:
+* receiving the boon of a god
+* stealing the bounty of a dragon's horde
+* earning the ire of a scorned lover
+
+> When you want to write something in notebook, there is a good chance
+> it is or will lead to a narrative change. It's significance is up to
+> you.
 
 Don't forget about new characters. A character becoming a level one adventurer is surely a significant change for them.
 
@@ -93,7 +110,7 @@ This principle applies to other things as well. For example, you might give face
 
 **Other uses for facets**
 
-Facets say a lot about your character. If you have earned a facet, try to get the most out of it. Ask for advantage if you think a facet would give you one. If you once swore an oath to the drowned god and earned the facet drowned in the depths, you may know the ways of the priests at this coastal temple. Go ahead and ask you dm for advantage when you ask how long that ritual to summon the Kraken will take.
+Facets say a lot about your character. If you have earned a facet, try to get the most out of it. Ask for advantage if you think a facet would give you one. If you once swore an oath to the drowned god and earned the facet drowned in the depths, you may know the ways of the priests at this coastal temple. Go ahead and ask you DM for advantage when you ask how long that ritual to summon the Kraken will take.
 
 **Ignoring facets**
 
