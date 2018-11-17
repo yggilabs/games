@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
-<aside class="toc">
+
+<amp-sidebar id="sidebar" layout="nodisplay" side="right">
   {% include toc.html html=content %}
-</aside>
+</amp-sidebar>
+
+<button on="tap:sidebar.open"
+  class="ampstart-btn caps m2">Open sidebar</button>
+
 <article class="content">
   {{ content }}
 </article>
