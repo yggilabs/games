@@ -1,5 +1,9 @@
 ---
 layout: default
 ---
-
-{{ content }}
+<aside class="toc">
+  {% include toc.html html=content %}
+<aside>
+<article class="content">
+  {{ content }}
+</article>
