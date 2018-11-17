@@ -4,4 +4,10 @@ layout: default
 
 {{ content }}
 
-<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+<amp-iframe width=600 height=140
+            layout="responsive"
+            sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms"
+            resizable
+            src="https://raw.githubusercontent.com/yggilabs/graphpg/master/disqus.html#{{page.id | md5}}">
+</amp-iframe>
+
