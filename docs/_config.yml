@@ -1,2 +1,4 @@
 paginate: 1
 baseurl: /graphpg
+sass:
+    style: compressed
