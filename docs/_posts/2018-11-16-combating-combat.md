@@ -110,8 +110,8 @@ Player's will each take turns attempting to overcome the encounter. Give players
 
 Give experience, gold, treasure or, other rewards as defeating monster of CR equal to the highest level character in your party.
 
-## Appendicies
-### Expendable Resources
+# Appendicies
+## Expendable Resources
 
 Here is an incomplete list of resources organized by resource category which often go underutilized when overcoming obstacles in an adventuring day:
 
@@ -126,7 +126,7 @@ Here is an incomplete list of resources organized by resource category which oft
 	* Goodwill 
 	* Reputation
 
-### Rundown 
+## Rundown 
 (The party has been seeking out a rare book called *The Tome of Tones*. They have located it just in time to save their skins and are attempting to obtain it. The party consists of: Chief, 5th level warlock; Clara, 6th level bard; Rondo 5th level monk)
 
 DM: Thanks to some well placed bribes, you have located *The Tome of Tones*. It resides in the library of your old friend at Ellington Estate. Its now early evening and there is clearly movement inside the house. You know he lives alone but, often has servants on hand. What do you do?
@@ -279,7 +279,7 @@ DM: Cool. A flock of dire owls attack.
 > *Benefits*
 > * CR 6 encounter
 
-### Glossary
+## Glossary
 
 **encounter tier** - Rough idea of how powerful an adventurer should be to overcome this obstacle.
 
@@ -293,9 +293,9 @@ DM: Cool. A flock of dire owls attack.
 
 > **encounter challenge** = **encounter tier** * # of player characters
 
-### Changelog
+## Changelog
 
 ### [1.0.0] - 2018-11-16
-#### Added
+**Added**
 - initial release
 
