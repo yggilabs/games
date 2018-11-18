@@ -252,7 +252,7 @@ In earlier examples, we looked at play examples including two characters, Steve 
 ## Changelog
 
 ### [2.0.0] - 2018-11-16
-#### Updated
+**Updated**
 * reformatted from homebrewery.org to more generic markdown
 
 ### [1.0.0]- 2018-03-06
