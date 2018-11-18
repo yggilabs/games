@@ -42,7 +42,7 @@
 .site__nav > * {
   position: sticky;
   top: var(--site__nav_top);
-  min-height: calc(100vh - var(--site__hero_height));
+  min-height: calc(100vh - var(--site__header_height));
 }
 
 .site__content {
