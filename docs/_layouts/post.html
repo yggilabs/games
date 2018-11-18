@@ -6,9 +6,19 @@ layout: default
   {% include toc.html html=content %}
 </amp-sidebar>
 
-<button on="tap:sidebar.open"
-  class="ampstart-btn caps m2">Open sidebar</button>
+<header class="header">
+  <button on="tap:sidebar.open"
+    class="ampstart-btn caps m2">Open sidebar</button>
+</header>
+
+<nav class="nav">
+  {% include toc.html html=content %}
+</nav>
+
+<section class="hero"></section>
 
 <article class="content">
   {{ content }}
 </article>
+
+<footer class="footer"></footer>
