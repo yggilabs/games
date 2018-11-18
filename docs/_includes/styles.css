@@ -68,7 +68,6 @@
   grid-area: nav;
   background-color: var(--site__nav_background-color);
   display: var(--site__nav_display);
-  margin-top: 96px;
 }
 
 .site__nav > * {
