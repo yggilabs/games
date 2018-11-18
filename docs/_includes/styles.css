@@ -1,8 +1,12 @@
 :root {
   --site__header_height: 96px;
+  
   --site__nav_top: var(--site__header_height);
+  
   --site__content_padding-left: 96px;
   --site__content_padding-right: 20%;
+  
+  --site__hero_height: 400px;
 }
 
 .site {
@@ -21,7 +25,8 @@
 }
 
 .site__hero {
-  grid-area: hero
+  grid-area: hero;
+  height:
 }
 
 .site__nav {
@@ -30,7 +35,8 @@
 
 .site__nav > * {
   position: sticky;
-  top: var(--site__nav-top)
+  top: var(--site__nav-top);
+  min-height: calc(100vh - var(--site__hero_height));
 }
 
 .site__content {
@@ -41,4 +47,20 @@
 
 .site__footer {
  grid-area: footer
+}
+
+.md {
+   
+}
+
+.md h1,h2,h3,h4,h5,h6 {
+  
+}
+
+.md p {
+
+}
+
+.md blockquote {
+  
 }
