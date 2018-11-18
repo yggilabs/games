@@ -1,0 +1,17 @@
+:root {
+  --site__header_background-color: #ffffff; 
+  --site__nav_background-color: #ffffff;
+  --site__hero_background-color: #ffffff;
+}
+
+.site__nav {
+   background-color: var(--site__nav_background-color); 
+}
+
+.site__header {
+   background-color: var(--site__header_background-color);
+}
+
+.site__hero {
+   background-color: var(--site__hero_background-color);
+}
