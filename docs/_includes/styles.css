@@ -6,6 +6,7 @@
   --site__header_height: 96px;
   --site__header__button_display: none;
   
+  --site__nav_display: initial;
   --site__nav_top: var(--site__header_height);
   --site__nav_min-height: calc(100vh - var(--site__header_height));
   
@@ -26,7 +27,7 @@
 
     --site__header__button_display: block;
     
-    --site__nav_min-height: initial;
+    --site__nav_display: none;    
 
     --site__content_padding-left: 16px;
     --site__content_padding-right: 16px;
@@ -57,8 +58,9 @@
   height: var(--site__hero_height);
 }
 
-.site__nav {
+.site__nav {  
   grid-area: nav;
+  display: var(--site__nav_display);
 }
 
 .site__nav > * {
