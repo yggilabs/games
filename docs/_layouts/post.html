@@ -6,10 +6,6 @@ layout: default
   {% include toc.html html=content %}
 </amp-sidebar>
 
-<header class="site__header">
-  <button on="tap:sidebar.open">Open sidebar</button>
-  <a href="{{ site.github.url }}">home</a>
-</header>
 
 <nav class="site__nav">
   {% include toc.html html=content %}
@@ -20,5 +16,3 @@ layout: default
 <article class="site__content">
   {{ content }}
 </article>
-
-<footer class="site__footer"></footer>
