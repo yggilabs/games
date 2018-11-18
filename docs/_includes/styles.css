@@ -1,7 +1,7 @@
 :root {
   --site_grid-template-columns: 25% 75%;
   --site_grid-template-rows: minmax(200px, auto) auto minmax(200px, auto);
-  --site_grid-template-areas: "hero hero" "nav content" "footer footer"
+  --site_grid-template-areas: "hero hero" "nav content" "footer footer";
   
   --site__header_height: 96px;
   
