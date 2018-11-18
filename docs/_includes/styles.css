@@ -4,6 +4,7 @@
   --site_grid-template-areas: "hero hero" "nav content" "footer footer";
   
   --site__header_height: 96px;
+  --site__header__button_display: none;
   
   --site__nav_top: var(--site__header_height);
   
@@ -13,8 +14,20 @@
   --site__hero_height: 400px;
   
   --site__footer_height: 400px;
-  
-  
+}
+
+
+@media (max-width: 768px) {
+  :root {
+    --site_grid-template-columns: 1fr;
+    --site_grid-template-rows: minmax(200px, auto) auto auto minmax(200px, auto);
+    --site_grid-template-areas: "hero" "nav" "content" "footer";
+
+    --site__header__button_display: block;
+
+    --site__content_padding-left: 16px;
+    --site__content_padding-right: 16px;
+  }
 }
 
 .site {
@@ -30,6 +43,10 @@
   left: 0;
   right: 0;
   height: var(--site__header_height);
+}
+
+.site__header > button {
+  display: var(--site__header__button_display);
 }
 
 .site__hero {
