@@ -5,6 +5,7 @@
   
   --site__header_height: 96px;
   --site__header__button_display: none;
+  --site__header_background-color: #ffffff; 
   
   --site__nav_display: initial;
   --site__nav_top: var(--site__header_height);
@@ -47,6 +48,7 @@
   left: 0;
   right: 0;
   height: var(--site__header_height);
+  background-color: var(--site__header_background-color)
 }
 
 .site__header > button {
