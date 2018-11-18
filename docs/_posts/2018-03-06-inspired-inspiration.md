@@ -256,7 +256,7 @@ In earlier examples, we looked at play examples including two characters, Steve 
 * reformatted from homebrewery.org to more generic markdown
 
 ### [1.0.0]- 2018-03-06
-#### Added
+**Added**
 * intial release
 
 
