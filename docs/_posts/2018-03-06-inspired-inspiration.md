@@ -219,7 +219,7 @@ In earlier examples, we looked at play examples including two characters, Steve 
 
 **Steve, 6th level Elf Ranger**
 | Change | Facet |
-|:----|:----|
+|---|---|
 | Background (Entertainer)  | *show-off* |
 | Race (Elf)  | *suspicious* |
 | Favored Enemy (Fey) | *fey-marked* |
@@ -231,8 +231,8 @@ In earlier examples, we looked at play examples including two characters, Steve 
 | Story | *Grey Queen's court*  |
 | Spell (Alarm) | *paranoia* |
 | Primeval Awareness | *sand speaker* |
-| Ability Score Improvement (Wisdom +2)| *insatiable curiosity* |
-| Spell (Silence)| *cacophony of sand* |
+| Ability Score Improvement (Wisdom +2) | *insatiable curiosity* |
+| Spell (Silence) | *cacophony of sand* |
 | Story | *curse of Al'akir* |
 
 **Finellen, Cleric ~~of Sune~~ (2nd) rhymes with s'morelock (2nd)**
