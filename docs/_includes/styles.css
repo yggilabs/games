@@ -9,6 +9,7 @@
   
   --site__nav_display: initial;
   --site__nav_top: var(--site__header_height);
+  --site__nav_background-color: #ffffff;
   --site__nav_min-height: calc(100vh - var(--site__header_height));
   
   --site__content_padding-left: 96px;
@@ -50,6 +51,7 @@
   height: var(--site__header_height);
   background-color: var(--site__header_background-color);
   box-shadow: 0 -2px 10px #212121;
+  z-index: 100;
 }
 
 .site__header > button {
@@ -58,11 +60,13 @@
 
 .site__hero {
   grid-area: hero;
+  background-color: var(--site__hero_background-color);
   height: var(--site__hero_height);
 }
 
 .site__nav {  
   grid-area: nav;
+  background-color: var(--site__nav_background-color);
   display: var(--site__nav_display);
 }
 
