@@ -12,6 +12,13 @@
    <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
    <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
  </head>
- <body class="site">{{ content }}</body>
+ <body class="site">
+  <header class="site__header">
+   <button on="tap:sidebar.open">Open sidebar</button>
+   <a href="{{ site.github.url }}">home</a>
+  </header>
+  {{ content }}
+ <footer class="site__footer"></footer>
+ </body>
 </html>
 
