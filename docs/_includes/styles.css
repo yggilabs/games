@@ -1,4 +1,8 @@
 :root {
+  --site_grid-template-columns: 25% 75%;
+  --site_grid-template-rows: minmax(200px, auto) auto minmax(200px, auto);
+  --site_grid-template-areas: "hero hero" "nav content" "footer footer"
+  
   --site__header_height: 96px;
   
   --site__nav_top: var(--site__header_height);
@@ -7,13 +11,15 @@
   --site__content_padding-right: 20%;
   
   --site__hero_height: 400px;
+  
+  
 }
 
 .site {
   display: grid;
-  grid-template-columns: 25% 75%;
-  grid-template-rows: minmax(200px, auto) auto minmax(200px, auto);
-  grid-template-areas: "hero hero" "nav content" "footer footer"
+  grid-template-columns: var(--site_grid-template-columns);
+  grid-template-rows: var(--site_grid-template-rows);
+  grid-template-areas: var(--site_grid-template-areas);
 }
 
 .site__header {
