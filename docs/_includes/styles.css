@@ -14,7 +14,8 @@
 }
 
 .site__content {
- grid-area: content 
+ grid-area: content; 
+ padding: 0 96px 0 20%;
 }
 
 .site__footer {
