@@ -48,7 +48,8 @@
   left: 0;
   right: 0;
   height: var(--site__header_height);
-  background-color: var(--site__header_background-color)
+  background-color: var(--site__header_background-color);
+  box-shadow: 0 -2px 10px #212121;
 }
 
 .site__header > button {
