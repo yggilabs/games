@@ -1,3 +1,10 @@
+:root {
+  --site__header_height: 96px;
+  --site__nav_top: calc(var(--site__header_height));
+  --site__content_padding-left: 96px;
+  --site__content_padding-right: 20%;
+}
+
 .site {
   display: grid;
   grid-template-columns: 25% 75%;
@@ -5,17 +12,31 @@
   grid-template-areas: "hero hero" "nav content" "footer footer"
 }
 
+.site__header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--site__header_height);
+}
+
 .site__hero {
- grid-area: hero
+  grid-area: hero
 }
 
 .site__nav {
- grid-area: nav 
+  grid-area: nav 
+}
+
+.site__nav > * {
+  position: sticky;
+  top: var(--site__nav-top)
 }
 
 .site__content {
- grid-area: content; 
- padding: 0 96px 0 20%;
+  grid-area: content; 
+  padding-left: var(--site__content_padding-left);
+  padding-right: var(--site__content_padding-right);
 }
 
 .site__footer {
