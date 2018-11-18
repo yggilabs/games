@@ -218,8 +218,9 @@ A first level character will probably start off with two to five facets. Each le
 In earlier examples, we looked at play examples including two characters, Steve and Finellen. This is what those characters might look like after running the campaign for a while. Steve's player has noted the associated change for every facet while Finellen's player (Lenna) has only recorded the list of facets. Either approach is acceptable.
 
 **Steve, 6th level Elf Ranger**
+
 | Change | Facet |
-|---|---|
+|:---|:---|
 | Background (Entertainer)  | *show-off* |
 | Race (Elf)  | *suspicious* |
 | Favored Enemy (Fey) | *fey-marked* |
