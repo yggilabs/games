@@ -32,7 +32,7 @@
 
 .site__hero {
   grid-area: hero;
-  height:
+  height: var(--site__hero_height);
 }
 
 .site__nav {
