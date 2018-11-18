@@ -5,11 +5,10 @@
   
   --site__header_height: 96px;
   --site__header__button_display: none;
-  --site__header_background-color: #ffffff; 
+  
   
   --site__nav_display: initial;
   --site__nav_top: var(--site__header_height);
-  --site__nav_background-color: #ffffff;
   --site__nav_min-height: calc(100vh - var(--site__header_height));
   
   --site__content_padding-left: 96px;
