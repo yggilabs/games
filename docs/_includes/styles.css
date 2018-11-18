@@ -7,6 +7,7 @@
   --site__header__button_display: none;
   
   --site__nav_top: var(--site__header_height);
+  --site__nav_min-height: calc(100vh - var(--site__header_height))
   
   --site__content_padding-left: 96px;
   --site__content_padding-right: 20%;
@@ -24,6 +25,8 @@
     --site_grid-template-areas: "hero" "nav" "content" "footer";
 
     --site__header__button_display: block;
+    
+    --site__nav_min-height: initial;
 
     --site__content_padding-left: 16px;
     --site__content_padding-right: 16px;
@@ -55,13 +58,13 @@
 }
 
 .site__nav {
-  grid-area: nav 
+  grid-area: nav;
 }
 
 .site__nav > * {
   position: sticky;
   top: var(--site__nav_top);
-  min-height: calc(100vh - var(--site__header_height));
+  min-height: var(--site__nav_min-height);
 }
 
 .site__content {
