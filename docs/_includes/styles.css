@@ -12,6 +12,8 @@
   
   --site__hero_height: 400px;
   
+  --site__footer_height: 400px;
+  
   
 }
 
@@ -52,7 +54,8 @@
 }
 
 .site__footer {
- grid-area: footer
+  grid-area: footer;
+  height: var(--site__footer_height);
 }
 
 .md {
