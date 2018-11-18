@@ -7,7 +7,7 @@
   --site__header__button_display: none;
   
   --site__nav_top: var(--site__header_height);
-  --site__nav_min-height: calc(100vh - var(--site__header_height))
+  --site__nav_min-height: calc(100vh - var(--site__header_height));
   
   --site__content_padding-left: 96px;
   --site__content_padding-right: 20%;
