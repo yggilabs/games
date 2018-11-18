@@ -21,8 +21,8 @@
 @media (max-width: 1024px) {
   :root {
     --site_grid-template-columns: 1fr;
-    --site_grid-template-rows: minmax(200px, auto) auto auto minmax(200px, auto);
-    --site_grid-template-areas: "hero" "nav" "content" "footer";
+    --site_grid-template-rows: minmax(200px, auto) auto minmax(200px, auto);
+    --site_grid-template-areas: "hero" "content" "footer";
 
     --site__header__button_display: block;
     
