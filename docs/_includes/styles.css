@@ -1,3 +1,22 @@
-body {
-  color: red
+.site {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  grid-template-rows: minmax(200px, auto) auto minmax(200px, auto);
+  grid-template-areas: "hero hero" "nav content" "footer footer"
+}
+
+.site__hero {
+ grid-area: hero
+}
+
+.site__nav {
+ grid-area: nav 
+}
+
+.site__content {
+ grid-area: content 
+}
+
+.site__footer {
+ grid-area: footer
 }
