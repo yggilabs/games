@@ -1,6 +1,6 @@
 :root {
   --site__header_height: 96px;
-  --site__nav_top: calc(var(--site__header_height));
+  --site__nav_top: var(--site__header_height);
   --site__content_padding-left: 96px;
   --site__content_padding-right: 20%;
 }
