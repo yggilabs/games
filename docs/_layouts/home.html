@@ -1,19 +1,9 @@
 ---
 layout: default
 ---
-
-<amp-sidebar id="sidebar" layout="nodisplay" side="right">
-  {% include toc.html html=content %}
-</amp-sidebar>
-
 <header class="site__header">
-  <button on="tap:sidebar.open">Open sidebar</button>
   <a href="{{ site.github.url }}">home</a>
 </header>
-
-<nav class="site__nav">
-  {% include toc.html html=content %}
-</nav>
 
 <section class="site__hero"></section>
 
