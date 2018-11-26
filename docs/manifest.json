@@ -14,8 +14,8 @@
     }
   ],
   "start_url": "/graphpg/?source=pwa",
-  "background_color": "#3367D6",
+  "background_color": "#555962",
   "display": "standalone",
   "scope": "/graphpg/",
-  "theme_color": "#3367D6"
+  "theme_color": "#555962"
 }
