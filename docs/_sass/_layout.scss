@@ -15,17 +15,12 @@
   
   --site__content_padding-left: 96px;
   --site__content_padding-right: 20%;
-  
-  --site__hero_height: 400px;
-  
-  --site__footer_height: 400px;
 }
 
 
 @media (max-width: 1024px) {
   :root {
     --site_grid-template-columns: 1fr;
-    --site_grid-template-rows: minmax(200px, auto) auto minmax(200px, auto);
     --site_grid-template-areas: "hero" "content" "footer";
 
     --site__header__button_display: block;
