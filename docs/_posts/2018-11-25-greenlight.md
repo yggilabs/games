@@ -25,11 +25,7 @@ The player rolls a number of d6 as indicated and may choose any die as the resul
 
 # Playing the Game
 
-	Start with *The Season*
-
 ## The Season
-
-	This represents the cycle for a single session of play.
 
 1. ***The Pitch*** — create *The Pitch*.
 2. ***The Shoot*** — You are ready to begin filming. Repeat *The Shoot* until everyone has had a chance to try out all the roles a few times.
@@ -38,8 +34,6 @@ The player rolls a number of d6 as indicated and may choose any die as the resul
 5. ***The Wrap*** — do the plot twist
 
 ## The Pitch
-
-	This is an overview of your season
 
 1. **The Pallet** — Together, choose actions and plans. ~~Create a list of actions by following the prompts~~ use the default
 2. **The Line** —  Together, write a single line describing the show.
@@ -53,28 +47,20 @@ The player rolls a number of d6 as indicated and may choose any die as the resul
 
 ### The Character
 
-	The character that each player controls
-
 1. Grab a blank card as *The Character*, name it and place on your left. This is the begging of a pile know as *The Before*.
 2. Give *The Character* a short description.
 3. Grab a blank card as *The Agenda*, write a goal on it and place upside-down and sideways on your right. This is the begging of a pile known as *The After*.
 
 ### The Hype
 
-	An action that another player has expressed interest in see in your character. pretty much highlighting 								in AW
-
 Ask *The Player* what action they are most interested in seeing *The Character* use. Record on 'The Character' as 'The Hype'
 
 ### The Crew
-	
-	the meta roles that players are responsible. This is where The Audience would go someday too
-	
+
 Create crew cards for the following roles: Producer, Director, Writer. Just write the roles on some blank cards. Grab extra blank cards for each player above  three. Shuffle all the cards and deal them out. 
 
 ### The Trailer
 
-	game setup to establish the narrative space. ripoff of microscope
-	
 Create the trailer. Imagine you must create a 15 second trailer for the show. 
 
 Take turns, writing down things that are in the trailer or things that got cut from the trailer.
@@ -88,8 +74,6 @@ After the first round, go around again. If everyone had something to add, keep g
 
 
 ## The Shoot
-
-	most of the time is spent here setting up scenes
 
 1. *(director)* **Previously...** — If *The Before* has not been recapped, give a short description of what happened.
 2. *(producer)* **The Focus** — Choose a focus as *The Focus*.
@@ -108,8 +92,6 @@ After the first round, go around again. If everyone had something to add, keep g
 11. *(all)* **pass** — Everyone with a role card passes it one player to the right. 
 
 ### The Scene 
-	
-	nailing down the details of the scene
 
 1. **The Price** — If *The Position* is *Risky*, what are you about to lose? If *The Position* is *Desperate*, what did you just lose?
 2. **The Slug** — Provide a general location and/or time. Record on *The Scene*.
@@ -119,23 +101,17 @@ After the first round, go around again. If everyone had something to add, keep g
 
 ### The cast
 
-	how to make and use side characters
-
 If you need a character that doesn't already belong to player, you have two options.
 * **make one** — Grab an index card write down a name and a quick description. Set that card down in the middle for everyone to see. Something like *Doris, The elderly bank-teller* works fine.
 * **take one** — Take a character from those previously made. Need an innocent bystander during your convenience store robbery? Just put *Doris, The elderly bank-teller* in harms way.
 
 ## The Break
 
-	the mid season break to collect thoughts. maybe figure out "The Thing"
-
 1. *(all)* **Take Five** — take a five minute break.
 2. *(all)* **The Crew** — Do *The Crew* if you haven't; otherwise, just shuffle roles.
 3. *(each)* **The Hype** — Do *The Hype* with 'The Player' on your right.
 	
 ## The Wrap
-
-	tell character epilogues or figure out a winner?
 
 Score the game. wrap up the stories. Good and bad outcomes are good. Middling outcomes are bad
 
@@ -148,8 +124,6 @@ Score the game. wrap up the stories. Good and bad outcomes are good. Middling ou
 # Appendices
 
 ## Lists
-
-	obviously stolen from blades lists
 
 **Default Actions**
 *  **Attune** — Open your mind to arcane power.
@@ -195,8 +169,6 @@ Score the game. wrap up the stories. Good and bad outcomes are good. Middling ou
 * (11) **pass**
 
 ## Guidance
-
-	faqs section
 
 ### When things go sideways.
 Sometimes you may be required to turn a card sideways. I use landscape as the normal orientation and, portrait as sideways. It doesn't matter just pick one and be consistent in your group.
