@@ -51,8 +51,14 @@
 
 .site__header > button {  
   display: var(--site__header__button_display);
-  position: absolute;
-  right: 16px;
+  position: fixed;
+  margin: 16px;
+  width: 64px;
+  height: 64px;
+  border-radius: 32px;
+  background-color: #eee;
+  right: 0;
+  bottom: 0;
 }
 
 .site__header > h1 {
