@@ -1,6 +1,8 @@
+---
+---
 var CACHE_NAME = 'yggi-games-cache-v1';
 var urlsToCache = [
-  '/'
+  '{{ site.baseurl }}'
 ];
 
 self.addEventListener('install', function(event) {
