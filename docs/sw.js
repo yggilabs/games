@@ -1,11 +1,10 @@
 ---
 ---
-var CACHE_NAME = 'yggi-games-cache-v1';
+var CACHE_NAME = 'yggi-games-cache-{{ site.time }}';
 var urlsToCache = [
   '{{ site.baseurl }}'
   {% for post in site.posts %}
-  ,
-  '{{ site.baseurl }}{{ post.url }}'
+  ,'{{ site.baseurl }}{{ post.url }}'
   {% endfor %}
 ];
 
