@@ -23,7 +23,7 @@ layout: compress
  </head>
  <body class="site markdown-body">
   <header class="site__header">
-   {% if layout.sidebar %}<button on="tap:sidebar.open">Open sidebar</button>{% endif %}
+   {% if layout.sidebar %}<button class="hamburger" on="tap:sidebar.open">Open sidebar</button>{% endif %}
    <h1><a href="{{ site.github.url }}">Yggi</a>Games</h1>
   </header>
   {{ content }}
