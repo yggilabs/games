@@ -30,10 +30,10 @@
   content: ', ';
 }
 
-.highlight {
+.markdown-body a {
   color: var(--colors__highlight);
 }
 
-.markdown-body a {
-  color: var(--colors__highlight);
+.site__header h1 {
+  text-align: center; 
 }
