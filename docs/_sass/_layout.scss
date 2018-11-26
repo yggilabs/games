@@ -58,9 +58,11 @@
   display: var(--site__header__button_display);
   position: fixed;
   margin: 16px;
-  width: 64px;
-  height: 64px;
-  border-radius: 32px;
+  color: rgb(255, 255, 255);
+  width: 54px;
+  height: 54px;
+  opacity: 0.8;
+  border-radius: 27px;
   background-color: #eee;
   right: 0;
   bottom: 0;
