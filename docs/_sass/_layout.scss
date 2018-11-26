@@ -4,6 +4,7 @@
   --site_grid-template-areas: "hero hero" "nav content" "footer footer";
   
   --site__header_height: 96px;
+  --site__header_margin: 0 16px;
   --site__header__button_display: none;
   --site__header__h1_text-align: center;
   
@@ -50,6 +51,7 @@
   left: 0;
   right: 0;
   z-index: 100;
+  margin: var(--site__header-margin);
 }
 
 .site__header > button {  
