@@ -31,6 +31,10 @@
     --site__content_padding-left: 16px;
     --site__content_padding-right: 16px;
   }  
+  
+  .site__header { 
+    grid-area: hero;
+  }
 }
 
 .site {
