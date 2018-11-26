@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Inspired Inspiration"
+categories: [Rules Supplements]
+tags: [dnd, 5e, inspiration]
 
 ---
 # Inspired Inspiration: Better Character Engagement by Cutting Facets
