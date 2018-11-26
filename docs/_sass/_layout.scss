@@ -90,10 +90,11 @@
   height: var(--site__footer_height);
 }
 
-/*
 :target:before {
+  --height: calc(2.3em + 24px);
   content: '';  
   display: block;
-  height: calc(2.3em + 24px);
+  height: var(--height);
+  margin: calc(var(--height) * -1) 0 0 0;
 }
-*/
+
