@@ -11,7 +11,7 @@ layout: compress
     
      {% capture include_to_scssify %}
       {% include normalize.css %}  
-      {% include markdown-body.css %}
+      {% include github-markdown.css %}
       {% include styles.scss %}      
     {% endcapture %}
     {{ include_to_scssify | scssify }}
