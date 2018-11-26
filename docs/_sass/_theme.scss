@@ -2,6 +2,7 @@
   --site__header_background-color: #ffffff; 
   --site__nav_background-color: #ffffff;
   --site__hero_background-color: #ffffff;
+  --colors__highlight: olivedrab;
 }
 
 .site__nav {
@@ -27,4 +28,12 @@
 
 .tags > li:not(:last-child):after {
   content: ', ';
+}
+
+.highlight {
+  color: var(--colors__highlight);
+}
+
+.markdown-body a {
+  color: var(--colors__highlight);
 }
