@@ -6,10 +6,15 @@ title: My Blog
 <section class="site__hero"></section>
 
 <article class="site__content">
-{% for post in site.posts %}
-  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-  <div class="toc">
-    {% include toc.html html=post.content %}
-  </div>
-{% endfor %}
+  {% for category in site.catergories %}
+  <h2>{{ category[0]}}</h2>
+    {% for post in category[1] %}
+    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+    <ul class="tags">
+      {% for tag in post.tags %}
+      <li>{{ tag }}</li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  {% endfor %}
 </article>
