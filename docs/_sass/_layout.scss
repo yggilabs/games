@@ -8,6 +8,7 @@
   --site__header_padding: 0 16px;
   --site__header__button_display: none;
   --site__header__h1_text-align: center;
+  --site__header__target_display: block;
   
   
   --site__nav_display: initial;
@@ -27,6 +28,7 @@
     --site__header__button_display: block;
     --site__header__h1_text-align: left;
     --site__header_position: initial;
+    --site__header__target_display: none;
     
     --site__nav_display: none;    
 
@@ -102,7 +104,7 @@
 :target:before {
   --height: calc(2.3em + 24px);
   content: '';  
-  display: block;
+  display: var(--site__header__target_display);
   height: var(--height);
   margin: calc(var(--height) * -1) 0 0 0;
 }
