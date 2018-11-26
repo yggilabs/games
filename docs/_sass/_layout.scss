@@ -89,3 +89,8 @@
   padding-top: 24px;
   height: var(--site__footer_height);
 }
+
+:target:before {
+  content: '';  
+  height: calc(2.3em + 24px);
+}
