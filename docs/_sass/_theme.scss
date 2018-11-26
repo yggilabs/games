@@ -15,3 +15,16 @@
 .site__hero {
    background-color: var(--site__hero_background-color);
 }
+
+.tags {
+  list-style: none;
+}
+
+.tags > li {
+  display: inline;
+}
+
+
+.tags > li:not(:last-child):after {
+  content: ', ';
+}
