@@ -52,12 +52,15 @@
   z-index: 100;
 }
 
-.site__header > sidebar {  
+.site__header > button {  
   display: var(--site__header__button_display);
+  position: absolute;
+  right: 0;
 }
 
 .site__header > h1 {
   margin-bottom: 0; 
+  text-align: var(--site__header__h1_text-align); 
 }
 
 .site__hero {
