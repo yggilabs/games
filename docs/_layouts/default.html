@@ -8,8 +8,11 @@ layout: compress
    <link rel="canonical" href="{{ site.github.url }}">
    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
    <style amp-custom>
+    
      {% capture include_to_scssify %}
-      {% include styles.scss %}
+      {% include normalize.css %}  
+      {% include markdown-body.css %}
+      {% include styles.scss %}      
     {% endcapture %}
     {{ include_to_scssify | scssify }}
    </style>
@@ -17,7 +20,7 @@ layout: compress
    <script async src="https://cdn.ampproject.org/v0.js"></script>
    {% if layout.sidebar %}<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>{% endif %}
  </head>
- <body class="site">
+ <body class="site markdown-body">
   <header class="site__header">
    {% if layout.sidebar %}<button on="tap:sidebar.open">Open sidebar</button>{% endif %}
    <a href="{{ site.github.url }}">home</a>
