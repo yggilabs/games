@@ -4,6 +4,7 @@
   --site_grid-template-areas: "hero hero" "nav content" "footer footer";
   
   --site__header_height: 96px;
+  --site__header_position: fixed;
   --site__header_padding: 0 16px;
   --site__header__button_display: none;
   --site__header__h1_text-align: center;
@@ -25,17 +26,13 @@
 
     --site__header__button_display: block;
     --site__header__h1_text-align: left;
+    --site__header_position: initial;
     
     --site__nav_display: none;    
 
     --site__content_padding-left: 16px;
     --site__content_padding-right: 16px;
   }  
-  
-  .site__header { 
-    grid-area: hero;
-    position: initial;
-  }
 }
 
 .site {
@@ -46,7 +43,8 @@
 }
 
 .site__header {
-  position: fixed;
+  position: var(--site__header_position);
+  grid-area: hero;
   top: 0;
   left: 0;
   right: 0;
