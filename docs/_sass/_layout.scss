@@ -5,6 +5,7 @@
   
   --site__header_height: 96px;
   --site__header__button_display: none;
+  --site__header__h1_text-align: center;
   
   
   --site__nav_display: initial;
@@ -27,12 +28,13 @@
     --site_grid-template-areas: "hero" "content" "footer";
 
     --site__header__button_display: block;
+    --site__header__h1_text-align: left;
     
     --site__nav_display: none;    
 
     --site__content_padding-left: 16px;
     --site__content_padding-right: 16px;
-  }
+  }  
 }
 
 .site {
