@@ -53,10 +53,3 @@ self.addEventListener('fetch', function(event) {
       })
     );
 });
-
-
-<amp-install-serviceworker
-  src="https://www.your-domain.com/serviceworker.js"
-  data-iframe-src="https://www.your-domain.com/install-serviceworker.html"
-  layout="nodisplay">
-</amp-install-serviceworker>
