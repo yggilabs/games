@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Combating Combat"
-
+categories: [Rules Supplements]
+tags: [dnd, 5e, combat, encounters]
 
 ---
 # Combating Combat: Better Adventuring Days by Spending All Your Resources.
