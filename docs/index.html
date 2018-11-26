@@ -6,7 +6,7 @@ title: My Blog
 <section class="site__hero"></section>
 
 <article class="site__content">
-  {% for category in site.catergories %}
+  {% for category in site.categories %}
   <h2>{{ category[0]}}</h2>
     {% for post in category[1] %}
     <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
