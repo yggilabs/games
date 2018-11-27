@@ -1,6 +1,8 @@
+---
+---
 {
-  "short_name": "Yggi",
-  "name": "Yggi Games Blog",
+  "short_name": "YggiGames",
+  "name": "YggiGames Blog",
   "icons": [
     {
       "src": "/images/icons-192.png",
@@ -13,9 +15,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/graphpg/?source=pwa",
+  "start_url": "{{ site.baseurl }}/?source=pwa",
   "background_color": "#555962",
   "display": "standalone",
-  "scope": "/graphpg/",
+  "scope": "{{ site.baseurl }}/",
   "theme_color": "#555962"
 }
