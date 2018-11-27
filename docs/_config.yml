@@ -1,4 +1,4 @@
-baseurl: /graphpg
+baseurl: /games
 permalink: none
 sass:
   sass_dir: _sass
