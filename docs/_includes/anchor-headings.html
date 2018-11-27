@@ -67,6 +67,10 @@
         {% capture anchor %}{{ anchor }} class="{{ include.anchorClass }}"{% endcapture %}
       {% endif %}
 
+      {% if include.ariaHidden %}
+        {% capture anchor %}{{ anchor }} aria-hidden="true"{% endcapture %}
+      {% endif %}
+
       {% if include.anchorTitle %}
         {% capture anchor %}{{ anchor }} title="{{ include.anchorTitle | replace: '%heading%', header }}"{% endcapture %}
       {% endif %}
