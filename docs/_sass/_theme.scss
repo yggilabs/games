@@ -44,7 +44,7 @@
   line-height: 1.25;
 }
 
-.patreon-button {
+a.patreon-button {
   background-color: var(--patreon-button_background-color, --colors__highlight);
   border-radius: 4px;
   border: none;
@@ -56,7 +56,7 @@
   color: var(--patreon-button_color, --colors__light);
 }
 
-.patreon-button:hover {
+a.patreon-button:hover {
   opacity: .8;
 }
 
