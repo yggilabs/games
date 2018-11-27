@@ -1,6 +1,6 @@
 :root {
   --site_grid-template-columns: 25% 75%;
-  --site_grid-template-rows: 75px minmax(200px, auto) auto minmax(200px, auto);
+  --site_grid-template-rows: 75px auto auto auto;
   --site_grid-template-areas: ". ." ". hero" "nav content" "footer footer";
 
   --site__header_position: fixed;
