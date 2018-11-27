@@ -1,16 +1,16 @@
 :root {
-  --site__header_background-color: var(--colors__light);
+  --site__header_background-color: var(--colors__light, #ffffff);
 
-  --site__nav_background-color: var(--colors__light);
+  --site__nav_background-color: var(--colors__light, #ffffff);
 
-  --site__hero_background-color: var(--colors__light);
+  --site__hero_background-color: var(--colors__light, #ffffff);
 
-  --markdown-body__a_color: var(--colors__highlight);
+  --markdown-body__a_color: var(--colors__highlight, #7fffff);
 
-  --menu-button_color: var(--colors__light);
+  --menu-button_color: var(--colors__light, #ffffff);
   --menu-button_opacity: .8;
   --menu-button_border-radius: .75em;
-  --menu-button_background-color: var(--colors__dark);
+  --menu-button_background-color: var(--colors__dark, #000000);
 
   --patreon-button_color: var(--colors__light);
   --patreon-button_background-color: var(--colors__highlight);
