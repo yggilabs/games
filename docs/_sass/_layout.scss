@@ -1,7 +1,7 @@
 :root {
   --site_grid-template-columns: 25% 75%;
   --site_grid-template-rows: 75px auto auto auto auto;
-  --site_grid-template-areas: ". ." ". hero" "nav content" "footer footer" ". patrons";
+  --site_grid-template-areas: ". ." ". hero" "nav content" ". patrons" "footer footer";
 
   --site__header_position: fixed;
   --site__header_height: 75px;
@@ -23,7 +23,7 @@
   :root {
     --site_grid-template-columns: 1fr;
     --site_grid-template-rows: auto auto auto auto auto;
-    --site_grid-template-areas: "header" "hero" "content" "footer" "patrons";
+    --site_grid-template-areas: "header" "hero" "content" "patrons" "footer";
 
     --site__header__button_display: block;
     --site__header__h1_text-align: left;

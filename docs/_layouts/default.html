@@ -13,7 +13,6 @@ layout: compress
    <link rel="icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
    <style amp-custom>
-
      {% capture include_to_scssify %}
       {% include normalize.css %}
       {% include github-markdown.css %}
@@ -28,32 +27,11 @@ layout: compress
    {% if layout.sidebar %}<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>{% endif %}
  </head>
  <body class="site markdown-body">
-  <header class="site__header">
-   <h1><a href="{{ site.github.url }}">Yggi</a>Games</h1>
-  </header>
+  {% include header %}
   {{ content }}
-  <section class="site__hero">
-    <blockquote>
-      <p>All the resources found here are provided free of charge. If you would like to support me in making more content like this, consider supporting me on Patreon.</p>
-    </blockquote>
-    <a class="patreon-button" href="https://www.patreon.com/bePatron?u=15054191" data-patreon-widget-type="become-patron-button"></a>
-  </section>
-  {% if site.data.patrons %}
-  <section class="site__patrons">
-  <h2> Thanks to my generous patrons for their support!</h2>
-  <ul>
-    {% for patron in site.data.patrons %}
-    <li>{{ patron.name }}</li>
-    {% endfor %}
-  </ul>
-  </section>
-  {% endif %}
-  <footer class="site__footer">
-    Made with ☕ in Minneapolis. &copy;2018  Sam Kelley
-  </footer>
-  <amp-install-serviceworker src="{{ site.github.url }}/sw.js"
-   data-iframe-src="{{ site.github.url }}/install-sw.html"
-   layout="nodisplay">
-  </amp-install-serviceworker>
+  {% include hero %}
+  {% include patrons %}
+  {% include footer %}
+  {% include sw %}
  </body>
 </html>
