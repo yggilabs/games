@@ -52,17 +52,14 @@ Mechanical changes may include:
 * learning a new feat 
 * gaining a racial feature
 
-> When you want to write something on your character sheet, there is a
-> good chance it is a mechanical change. It's significance is up to you.
+> When you want to write something on your character sheet, there is a good chance it is a mechanical change. It's significance is up to you.
 
 Narrative changes may include:
 * receiving the boon of a god
 * stealing the bounty of a dragon's horde
 * earning the ire of a scorned lover
 
-> When you want to write something in notebook, there is a good chance
-> it is or will lead to a narrative change. It's significance is up to
-> you.
+> When you want to write something in notebook, there is a good chance it is or will lead to a narrative change. It's significance is up to you.
 
 Don't forget about new characters. A character becoming a level one adventurer is surely a significant change for them.
 
@@ -72,13 +69,9 @@ A facet is simply a word or short phrase which represents the fictional experien
 
 > **Choosing a Facet** 
 > 
-> When you gain a facet, the player and DM may create a new facet that
-> is appropriate to the character, the setting, and the significant
-> change. 
+> When you gain a facet, the player and DM may create a new facet that is appropriate to the character, the setting, and the significant change. 
 > 
-> Try to keep your facets distinct from each other. If two facets seem
-> similar, Think about what makes them unique and highlight that
-> difference.
+> Try to keep your facets distinct from each other. If two facets seem similar, Think about what makes them unique and highlight that difference.
 
 
 
@@ -94,10 +87,7 @@ Describe how one of the character’s facets manifests in the situation. The DM 
 
 > **Choosing a Complication**
 > 
-> The most basic complication is to give the triggering roll
-> disadvantage. This is only applicable is the roll doesn’t already have
-> disadvantage. Otherwise, You may offer a cost to the roll. Costs are
-> always paid regardless of the outcome of a roll.
+> The most basic complication is to give the triggering roll disadvantage. This is only applicable is the roll doesn’t already have disadvantage. Otherwise, You may offer a cost to the roll. Costs are always paid regardless of the outcome of a roll.
 
 
 ### Advanced Facets
