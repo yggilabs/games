@@ -77,17 +77,20 @@
   text-align: center;
 }
 
-:hover > .permalink::before {
+.markdown-body :hover > a.permalink::before {
   display: inline;
 }
 
-.permalink::before {
+.markdown-body a.permalink::before {
   content: '🔗';
   display: none;
   opacity: .5;
 }
 
-a.permalink:hover::before {
+.markdown-body a.permalink:hover {
   text-decoration: none;
+}
+
+.markdown-body a.permalink:hover::before {
   opacity: 1;
 }
