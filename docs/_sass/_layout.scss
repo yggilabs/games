@@ -4,6 +4,7 @@
   --site_grid-template-areas: ". ." ". hero" "nav content" "footer footer";
 
   --site__header_position: fixed;
+  --site__header_height: 75px;
   --site__header_padding: 0 16px;
   --site__header__button_display: none;
   --site__header__h1_text-align: center;
@@ -11,7 +12,7 @@
 
   --site__nav_display: initial;
   --site__nav_top: var(--site__header_height);
-  --site__nav_min-height: calc(100vh - var(--site__header_height));
+  --site__nav_height: calc(100vh - var(--site__header_height));
 
   --site__content_padding-left: 96px;
   --site__content_padding-right: 20%;
@@ -75,7 +76,8 @@
 .site__nav > * {
   position: sticky;
   top: var(--site__nav_top);
-  min-height: var(--site__nav_min-height);
+  height: var(--site__nav_height);
+  overflow-y: scroll;
 }
 
 .site__content {
