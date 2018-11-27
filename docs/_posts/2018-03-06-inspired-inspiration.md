@@ -247,6 +247,10 @@ In earlier examples, we looked at play examples including two characters, Steve 
 **Added**
 * hyperlinks to rundowns in appropriate explanation sections
 * hyperlinks to relevant rules when they come up 
+* new section choosing to change
+
+**Removed**
+* significant change advice
 
 ### [1.0.0] - 2018-11-16
 **Updated**
