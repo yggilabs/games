@@ -114,7 +114,7 @@
 }
 
 :target:before {
-  --height: calc(2.3em + 24px);
+  --height: calc(75px);
   content: '';
   display: var(--site__header__target_display);
   height: var(--height);
