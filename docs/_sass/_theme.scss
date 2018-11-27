@@ -1,5 +1,7 @@
+---
+---
 :root {
-  --colors__highlight: #DB3B1E;
+  --colors__highlight: {{ site.theme_color }};
   --colors__light: #ffffff;
   --colors__dark: #555962;
 

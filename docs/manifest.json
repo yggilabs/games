@@ -1,8 +1,8 @@
 ---
 ---
 {
-  "short_name": "YggiGames",
-  "name": "YggiGames Blog",
+  "short_name": "{{ site.short_name }}",
+  "name": "{{ site.name }}",
   "icons": [
     {
       "src": "/images/icons-192.png",
@@ -16,8 +16,8 @@
     }
   ],
   "start_url": "{{ site.baseurl }}/?source=pwa",
-  "background_color": "#555962",
+  "background_color": "{{site.theme_color}}",
   "display": "standalone",
   "scope": "{{ site.baseurl }}/",
-  "theme_color": "#555962"
+  "theme_color": "{{site.theme_color}}"
 }

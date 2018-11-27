@@ -5,9 +5,9 @@ layout: compress
 <html ⚡ lang="en">
  <head>
    <meta charset="utf-8">
-   <title>Yggigames{% if layout.title %} | {{ layout.title }}{% endif%}</title>
-   <meta name="theme-color" content="#317EFB"/>
-   <meta name="Description" content="The freshest from YggiGames">
+   <title>{{ site.short_name }}{% if layout.title %} | {{ layout.title }}{% endif %}</title>
+   <meta name="theme-color" content="{{ site.theme_color }}"/>
+   <meta name="Description" content="{{ site.description }}">
    <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
    <link rel="canonical" href="{{ site.github.url }}">
    <link rel="icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
