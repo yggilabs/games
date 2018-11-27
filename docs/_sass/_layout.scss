@@ -1,15 +1,13 @@
 :root {
   --site_grid-template-columns: 25% 75%;
-  --site_grid-template-rows: minmax(200px, auto) auto minmax(200px, auto);
-  --site_grid-template-areas: "hero hero" "nav content" "footer footer";
+  --site_grid-template-rows: 75px minmax(200px, auto) auto minmax(200px, auto);
+  --site_grid-template-areas: "* *" "hero hero" "nav content" "footer footer";
 
-  --site__header_height: 96px;
   --site__header_position: fixed;
   --site__header_padding: 0 16px;
   --site__header__button_display: none;
   --site__header__h1_text-align: center;
   --site__header__target_display: block;
-
 
   --site__nav_display: initial;
   --site__nav_top: var(--site__header_height);
@@ -23,8 +21,8 @@
 @media (max-width: 1024px) {
   :root {
     --site_grid-template-columns: 1fr;
-    --site_grid-template-rows: auto auto auto;
-    --site_grid-template-areas: "hero" "content" "footer";
+    --site_grid-template-rows: auto auto auto auto;
+    --site_grid-template-areas: "header" "hero" "content" "footer";
 
     --site__header__button_display: block;
     --site__header__h1_text-align: left;
@@ -47,7 +45,7 @@
 
 .site__header {
   position: var(--site__header_position);
-  grid-area: hero;
+  grid-area: header;
   top: 0;
   left: 0;
   right: 0;
@@ -62,9 +60,8 @@
 
 .site__hero {
   grid-area: hero;
-  max-width: 1024px;
-  margin: 64px auto;
-  height: var(--site__hero_height);
+  padding-left: var(--site__content_padding-left);
+  padding-right: var(--site__content_padding-right);
 }
 
 .site__nav {

@@ -44,12 +44,12 @@
   line-height: 1.25;
 }
 
-.patreon-button {
+a.patreon-button {
   background-color: var(--patreon-button_background-color, --colors__highlight);
   padding: 7px;
 }
 
-.patreon-button:hover {
+a.patreon-button:hover {
   text-decoration: none;
   opacity: .8;
 }
