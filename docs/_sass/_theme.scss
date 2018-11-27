@@ -1,5 +1,5 @@
 :root {
-  --colors__highlight: coral;
+  --colors__highlight: #FF6129;
   --colors__light: #ffffff;
   --colors__dark: #555962;
 
@@ -44,24 +44,20 @@
   line-height: 1.25;
 }
 
-a.patreon-button {
+.patreon-button {
   background-color: var(--patreon-button_background-color, --colors__highlight);
-  padding: 7px;
+  border-radius: 4px;
+  border: none;
+  padding: 7px 14px;
   margin-left: 20px;
-}
-
-a.patreon-button:hover {
-  text-decoration: none;
-  opacity: .8;
-}
-
-.patreon-button:before {
-  content: 'become a patron';
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
-  margin: 7px;
   color: var(--patreon-button_color, --colors__light);
+}
+
+.patreon-button:hover {
+  opacity: .8;
 }
 
 .tags {
