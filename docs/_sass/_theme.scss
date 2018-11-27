@@ -76,3 +76,7 @@
 .site__footer {
   text-align: center;
 }
+
+.permalink::before {
+  content: '🔗';
+}
