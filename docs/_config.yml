@@ -5,7 +5,7 @@ footer: Made with ☕ in Minneapolis. &copy;2018  Sam Kelley
 description: The newest creations from YggiGames
 short_name: YggiGames
 name: YggiGames Blog
-theme_color: #DB3B1E
+theme_color: "#DB3B1E"
 sass:
   sass_dir: _sass
   style: compressed
