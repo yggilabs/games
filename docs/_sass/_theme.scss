@@ -77,7 +77,6 @@
   text-align: center;
 }
 
-
 :hover > .permalink::before {
   display: inline;
 }
@@ -85,8 +84,10 @@
 .permalink::before {
   content: '🔗';
   display: none;
+  opacity: .5;
 }
 
-.permalink:hover {
+a.permalink:hover {
   text-decoration: none;
+  opacity: 1;
 }
