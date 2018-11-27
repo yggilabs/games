@@ -6,6 +6,7 @@ title: Home
 <section class="site__hero"></section>
 
 <article class="site__content">
+  {% include introduction.html %}
   {% for category in site.categories %}
   <h2>{{ category[0] }}</h2>
     {% for post in category[1] %}
