@@ -45,21 +45,17 @@ If you want give your players a mechanical reason to become more involved in the
 
 A significant change may be either a mechanical or narrative change with a substantial impact on your character. 
 
-> Mechanical changes may include:
+> #### Choosing to Change
+>
+> These are some changes you may consider significant enough to gain a facet for. Though, the decision is ultimately up to your group.
+>  
 > * gaining a class feature
 > * learning a new feat 
 > * gaining a racial feature
->
-> When you want to write something on your character sheet, there is a good chance it is a mechanical change. It's significance is up to you.
->
-> Narrative changes may include:
 > * receiving the boon of a god
 > * stealing the bounty of a dragon's horde
 > * earning the ire of a scorned lover
->
-> When you want to write something in notebook, there is a good chance it is or will lead to a narrative change. It's significance is up to you.
->
-> Don't forget about new characters. A character becoming a level one adventurer is surely a significant change for them.
+> * setting out on a new adventuring life
 
 #### Facet
 
