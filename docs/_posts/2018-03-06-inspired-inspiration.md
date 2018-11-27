@@ -41,37 +41,37 @@ If you want give your players a mechanical reason to become more involved in the
 
 *When your character undergoes a [significant change](#significant-change), your character may gain a new [facet](#facet).*
 
-#### Significant Change
+ #### Significant Change
 
 A significant change may be either a mechanical or narrative change with a substantial impact on your character. 
 
-Mechanical changes may include:
-* gaining a class feature
-* learning a new feat 
-* gaining a racial feature
-
+> Mechanical changes may include:
+> * gaining a class feature
+> * learning a new feat 
+> * gaining a racial feature
+>
 > When you want to write something on your character sheet, there is a good chance it is a mechanical change. It's significance is up to you.
-
-Narrative changes may include:
-* receiving the boon of a god
-* stealing the bounty of a dragon's horde
-* earning the ire of a scorned lover
-
+>
+> Narrative changes may include:
+> * receiving the boon of a god
+> * stealing the bounty of a dragon's horde
+> * earning the ire of a scorned lover
+>
 > When you want to write something in notebook, there is a good chance it is or will lead to a narrative change. It's significance is up to you.
-
-Don't forget about new characters. A character becoming a level one adventurer is surely a significant change for them.
+>
+> Don't forget about new characters. A character becoming a level one adventurer is surely a significant change for them.
 
 #### Facet
 
 A facet is simply a word or short phrase which represents the fictional experience of your character.
 
-> **Choosing a Facet** 
+> #### Choosing a Facet
 > 
 > When you gain a facet, the player and DM may create a new facet that is appropriate to the character, the setting, and the significant change. 
 > 
 > Try to keep your facets distinct from each other. If two facets seem similar, Think about what makes them unique and highlight that difference.
-> 
-> @see Rundown [Gaining Facets](#gaining-facets-1)
+ 
+See Rundown,  [Gaining Facets](#gaining-facets-1)
 
 
 
@@ -79,20 +79,20 @@ A facet is simply a word or short phrase which represents the fictional experien
 
 *When a player would make an attack roll, ability check or saving throw, they may choose to [invoke facet](#invoke-facet). After the roll, the character gains inspiration.*
 
-#### Invoke Facet
+ #### Invoke Facet
 
-Describe how one of the character’s facets manifests in the situation. The DM will offer a [complication](#choosing-a-complication). If the player agrees, the facet is invoked. Each facet may only be invoked in this way once per session.
+ Describe how one of the character’s facets manifests in the situation. The DM will offer a [complication](#choosing-a-complication). If the player agrees, the facet is invoked. Each facet may only be invoked in this way once per session.
 
 > #### Choosing a Complication
 > 
 > The most basic complication is to give the triggering roll disadvantage. This is only applicable is the roll doesn’t already have disadvantage. Otherwise, You may offer a cost to the roll. Costs are always paid regardless of the outcome of a roll.
-> 
-> @see Rundown [Using Facets](#using-facets-1)
+ 
+See Rundown, [Using Facets](#using-facets-1)
 
 
 ### Advanced Facets
 
-**Facets for everything**
+#### Facets for everything
 
 Anything can have facets, not just player characters. Non-player characters, groups of characters, even environments can all have facets if you want. 
 
@@ -100,19 +100,19 @@ Perhaps, you imagine elves in your setting are quick-tempered. Give elves the qu
 
 This principle applies to other things as well. For example, you might give facets to groups such as cities, factions, monastic orders, etc. When a character is created with a strong association to a group give that character the facets of that group.
 
-**Other uses for facets**
+#### Other uses for facets
 
 Facets say a lot about your character. If you have earned a facet, try to get the most out of it. Ask for advantage if you think a facet would give you one. If you once swore an oath to the drowned god and earned the facet drowned in the depths, you may know the ways of the priests at this coastal temple. Go ahead and ask you DM for advantage when you ask how long that ritual to summon the Kraken will take.
 
-**Ignoring facets**
+#### Ignoring facets
 
 Some facets just aren't true for a character. Perhaps your character turned their back on the light of Pelor after seeing true darkness in the world or maybe they never understood the dwarven the lust for gold and instead lusted for knowledge of the unknown. Go ahead and ignore facets that you don't think are true about your character. Better yet, actively fight against a facet you truly despise.
 
-**Just say no**
+#### Just say no
 
 Sometimes ignoring a facet isn’t the right solution. Players may say no to their character’s facets at any time. Just remove the facet from the character.
 
-**At higher levels**
+#### At higher levels
 
 A first level character will probably start off with two to five facets. Each level of play should grant one to three facets. You can even use narrative facets to simulate adventures a character may have gone on. A fifth level character might have twelve facets. If that character had earlier dealt with attacks of a frenzied owlbear, they may have the facet Moonclaw's bane to represent that story.
 
