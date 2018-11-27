@@ -62,6 +62,8 @@
 
 .site__hero {
   grid-area: hero;
+  max-width: 1024px;
+  margin: 64px auto;
   height: var(--site__hero_height);
 }
 

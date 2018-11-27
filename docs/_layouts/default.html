@@ -31,13 +31,13 @@ layout: compress
   <header class="site__header">
    <h1><a href="{{ site.github.url }}">Yggi</a>Games</h1>
   </header>
+  {{ content }}
   <section class="site__hero">
-    <blockquote>All the resources found here are provided free of charge. If you would like to support me in making more content like this, consider supporting me on Patreon.</blockquote>
+    <p>All the resources found here are provided free of charge. If you would like to support me in making more content like this, consider supporting me on Patreon.</p>
     <a class="patreon-button" href="https://www.patreon.com/bePatron?u=15054191" data-patreon-widget-type="become-patron-button"></a>
   </section>
-  {{ content }}
- <footer class="site__footer">
-  Made with ☕ in Minneapolis. &copy;2018  Sam Kelley
+  <footer class="site__footer">
+    Made with ☕ in Minneapolis. &copy;2018  Sam Kelley
   </footer>
   <amp-install-serviceworker src="{{ site.github.url }}/sw.js"
    data-iframe-src="{{ site.github.url }}/install-sw.html"
