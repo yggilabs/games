@@ -6,6 +6,7 @@ description: The newest creations from YggiGames
 short_name: YggiGames
 name: YggiGames Blog
 theme_color: "#DB3B1E"
+analytics: false
 sass:
   sass_dir: _sass
   style: compressed
