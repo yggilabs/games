@@ -1,7 +1,7 @@
 :root {
   --site_grid-template-columns: 25% 75%;
   --site_grid-template-rows: 75px minmax(200px, auto) auto minmax(200px, auto);
-  --site_grid-template-areas: "* *" "hero hero" "nav content" "footer footer";
+  --site_grid-template-areas: ". ." ". hero" "nav content" "footer footer";
 
   --site__header_position: fixed;
   --site__header_padding: 0 16px;
@@ -62,6 +62,7 @@
   grid-area: hero;
   padding-left: var(--site__content_padding-left);
   padding-right: var(--site__content_padding-right);
+  margin: 32px 0;
 }
 
 .site__nav {
