@@ -14,6 +14,14 @@
 
   --patreon-button_color: var(--colors__light);
   --patreon-button_background-color: var(--colors__highlight);
+
+  --permalink_opacity: .5;
+}
+
+@media (max-width: 1024px) {
+  :root {
+    --permalink_opacity: 1;
+  }
 }
 
 .site__nav {
@@ -84,7 +92,7 @@
 .markdown-body a.permalink::before {
   content: '🔗';
   display: none;
-  opacity: .5;
+  opacity: var(--permalink_opacity);
 }
 
 .markdown-body a.permalink:hover {
