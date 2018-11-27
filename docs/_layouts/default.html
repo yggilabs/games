@@ -27,11 +27,11 @@ layout: compress
    {% if layout.sidebar %}<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>{% endif %}
  </head>
  <body class="site markdown-body">
-  {% include header %}
+  {% include header.html %}
   {{ content }}
-  {% include hero %}
-  {% include patrons %}
-  {% include footer %}
-  {% include sw %}
+  {% include hero.html %}
+  {% include patrons.html %}
+  {% include footer.html %}
+  {% include sw.html %}
  </body>
 </html>
