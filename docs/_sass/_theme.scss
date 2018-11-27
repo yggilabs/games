@@ -11,10 +11,10 @@
 
   --markdown-body__a_color: var(--colors__highlight);
 
-  --menu-button_color: var(--colors__light)
-  --menu-button_opacity: .8
-  --menu-button_border-radius: .75em
-  --menu-button_background-color: var(--colors__dark)
+  --menu-button_color: var(--colors__light);
+  --menu-button_opacity: .8;
+  --menu-button_border-radius: .75em;
+  --menu-button_background-color: var(--colors__dark);
 }
 
 .site__nav {
@@ -35,12 +35,8 @@
   border-radius: var(--menu-button_border-radius);
   background-color: var(--menu-button_background-color);
   border: none;
-}
-
-.menu-button::before {
-  content: '#';
   font-size: 2em;
-  margin-top: 24px;    
+  margin-top: 24px;
   font-weight: 600;
   line-height: 1.25;
 }
