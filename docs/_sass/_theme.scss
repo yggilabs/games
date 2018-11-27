@@ -1,5 +1,5 @@
 :root {
-  --colors__highlight: olivedrab;
+  --colors__highlight: coral;
   --colors__light: #ffffff;
   --colors__dark: #555962;
 
@@ -46,15 +46,20 @@
 
 .patreon-button {
   background-color: var(--patreon-button_background-color, --colors__highlight);
-  height: 36px;
-  width: 175px;
-  text-align: center;
+  padding: 7px;
+}
+
+.patreon-button:hover {
+  text-decoration: none;
+  opacity: .8;
 }
 
 .patreon-button:before {
   content: 'become a patron';
-  text-transform: capitalize;
-  font-size: 18px;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+  margin: 7px
   color: var(--patreon-button_color, --colors__light);
 }
 
