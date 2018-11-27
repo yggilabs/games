@@ -85,5 +85,8 @@
 .permalink::before {
   content: '🔗';
   display: none;
+}
+
+.permalink:hover {
   text-decoration: none;
 }
