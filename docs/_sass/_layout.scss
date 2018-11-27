@@ -2,19 +2,19 @@
   --site_grid-template-columns: 25% 75%;
   --site_grid-template-rows: minmax(200px, auto) auto minmax(200px, auto);
   --site_grid-template-areas: "hero hero" "nav content" "footer footer";
-  
+
   --site__header_height: 96px;
   --site__header_position: fixed;
   --site__header_padding: 0 16px;
   --site__header__button_display: none;
   --site__header__h1_text-align: center;
   --site__header__target_display: block;
-  
-  
+
+
   --site__nav_display: initial;
   --site__nav_top: var(--site__header_height);
   --site__nav_min-height: calc(100vh - var(--site__header_height));
-  
+
   --site__content_padding-left: 96px;
   --site__content_padding-right: 20%;
 }
@@ -30,12 +30,12 @@
     --site__header__h1_text-align: left;
     --site__header_position: initial;
     --site__header__target_display: none;
-    
-    --site__nav_display: none;    
+
+    --site__nav_display: none;
 
     --site__content_padding-left: 16px;
     --site__content_padding-right: 16px;
-  }  
+  }
 }
 
 .site {
@@ -55,23 +55,9 @@
   padding: var(--site__header_padding);
 }
 
-.sidebar__button {  
-  display: var(--site__header__button_display);
-  position: fixed;
-  margin: 16px;
-  color: rgb(255, 255, 255);
-  width: 1.5em;
-  height: 1.5em;
-  opacity: 0.8;
-  border-radius: .75em;
-  background-color: #555962;
-  right: 0;
-  bottom: 0;
-}
-
 .site__header > h1 {
-  margin-bottom: 0; 
-  text-align: var(--site__header__h1_text-align); 
+  margin-bottom: 0;
+  text-align: var(--site__header__h1_text-align);
 }
 
 .site__hero {
@@ -79,7 +65,7 @@
   height: var(--site__hero_height);
 }
 
-.site__nav {  
+.site__nav {
   grid-area: nav;
   display: var(--site__nav_display);
   padding-top: 24px;
@@ -93,7 +79,7 @@
 }
 
 .site__content {
-  grid-area: content; 
+  grid-area: content;
   padding-left: var(--site__content_padding-left);
   padding-right: var(--site__content_padding-right);
 }
@@ -104,15 +90,24 @@
   height: var(--site__footer_height);
 }
 
+.menu-button {
+  display: var(--site__header__button_display);
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin: 16px;
+  width: 1.5em;
+  height: 1.5em;
+}
+
 :target:before {
   --height: calc(2.3em + 24px);
-  content: '';  
+  content: '';
   display: var(--site__header__target_display);
   height: var(--height);
   margin: calc(var(--height) * -1) 0 0 0;
 }
 
 amp-sidebar h1 {
-  text-align: center; 
+  text-align: center;
 }
-

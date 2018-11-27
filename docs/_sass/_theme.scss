@@ -1,12 +1,24 @@
 :root {
-  --site__header_background-color: #ffffff; 
-  --site__nav_background-color: #ffffff;
-  --site__hero_background-color: #ffffff;
   --colors__highlight: olivedrab;
+  --colors__light: #ffffff;
+  --colors__dark: #555962;
+
+  --site__header_background-color: var(--colors__light);
+
+  --site__nav_background-color: var(--colors__light);
+
+  --site__hero_background-color: var(--colors__light);
+
+  --markdown-body__a_color: var(--colors__highlight);
+
+  --menu-button_color: var(--colors__light)
+  --menu-button_opacity: .8
+  --menu-button_border-radius: .75em
+  --menu-button_background-color: var(--colors__dark)
 }
 
 .site__nav {
-   background-color: var(--site__nav_background-color); 
+   background-color: var(--site__nav_background-color);
 }
 
 .site__header {
@@ -15,6 +27,22 @@
 
 .site__hero {
    background-color: var(--site__hero_background-color);
+}
+
+.menu-button {
+  color: var(--menu-button_color);
+  opacity: var(--menu-button_opacity);
+  border-radius: var(--menu-button_border-radius);
+  background-color: var(--menu-button_background-color);
+  border: none;
+}
+
+.menu-button::before {
+  content: '#';
+  font-size: 2em;
+  margin-top: 24px;    
+  font-weight: 600;
+  line-height: 1.25;
 }
 
 .tags {
@@ -31,16 +59,7 @@
 }
 
 .markdown-body a {
-  color: var(--colors__highlight);
-}
-
-button {
-    border: none;
-    background-color: unset;    
-    font-size: 2em;    
-    margin-top: 24px;    
-    font-weight: 600;
-    line-height: 1.25;
+  color: var(--markdown-body__a_color);
 }
 
 .site__footer {

@@ -3,15 +3,15 @@ layout: default
 sidebar: true
 ---
 
-<amp-sidebar id="sidebar" layout="nodisplay" side="left">  
+<amp-sidebar id="sidebar" layout="nodisplay" side="left">
   <h1><a href="{{ site.github.url }}">Yggi</a>Games</h1>
   {% include toc.html html=content h_max=3 %}
 </amp-sidebar>
 
-<button class="sidebar__button" on="tap:sidebar.open">#</button>
+<button class="menu-button" on="tap:sidebar.open"></button>
 
-<nav class="site__nav">  
-  {% include toc.html html=content %}  
+<nav class="site__nav">
+  {% include toc.html html=content %}
 </nav>
 
 <section class="site__hero"></section>
