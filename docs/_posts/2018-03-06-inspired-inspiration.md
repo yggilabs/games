@@ -92,7 +92,7 @@ See Rundown, [Using Facets](#using-facets-1)
 
 Anything can have facets, not just player characters. Non-player characters, groups of characters, even environments can all have facets if you want. 
 
-Perhaps, you imagine elves in your setting are quick-tempered. Give elves the quick-tempered facet. Alternatively, ask a player who has created or otherwise thought about elves for their thoughts. When you or a player create a new elf character give them the quick-tempered facet. Of course, not all elves are quick-tempered. If you want an elf that is level-headed, read the section Ignoring Facets.
+Perhaps, you imagine elves in your setting are quick-tempered. Give elves the quick-tempered facet. Alternatively, ask a player who has created or otherwise thought about elves for their ideas. When you or a player create a new elf character give them the quick-tempered facet. Of course, not all elves are quick-tempered. If you want an elf that is level-headed, read the section Ignoring Facets.
 
 This principle applies to other things as well. For example, you might give facets to groups such as cities, factions, monastic orders, etc. When a character is created with a strong association to a group give that character the facets of that group.
 
