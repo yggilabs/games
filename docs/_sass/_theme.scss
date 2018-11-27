@@ -90,7 +90,7 @@
 }
 
 .markdown-body a.permalink::before {
-  content: '🔗';
+  content: '@';
   display: none;
   opacity: var(--permalink_opacity);
 }
