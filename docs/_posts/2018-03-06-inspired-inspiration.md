@@ -41,7 +41,7 @@ If you want give your players a mechanical reason to become more involved in the
 
 *When your character undergoes a [significant change](#significant-change), your character may gain a new [facet](#facet).*
 
- #### Significant Change
+#### Significant Change
 
 A significant change may be either a mechanical or narrative change with a substantial impact on your character. 
 
@@ -79,7 +79,7 @@ See Rundown,  [Gaining Facets](#gaining-facets-1)
 
 *When a player would make an attack roll, ability check or saving throw, they may choose to [invoke facet](#invoke-facet). After the roll, the character gains inspiration.*
 
- #### Invoke Facet
+#### Invoke Facet
 
  Describe how one of the character’s facets manifests in the situation. The DM will offer a [complication](#choosing-a-complication). If the player agrees, the facet is invoked. Each facet may only be invoked in this way once per session.
 
