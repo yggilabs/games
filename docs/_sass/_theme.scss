@@ -44,9 +44,8 @@
   line-height: 1.25;
 }
 
-a.patreon-button {
+.markdown-body a.patreon-button {
   background-color: var(--patreon-button_background-color, --colors__highlight);
-  border-radius: 4px;
   border: none;
   padding: 7px 14px;
   margin-left: 20px;
@@ -56,8 +55,9 @@ a.patreon-button {
   color: var(--patreon-button_color, --colors__light);
 }
 
-a.patreon-button:hover {
+.markdown-body a.patreon-button:hover {
   opacity: .8;
+  text-decoration: none;
 }
 
 .tags {
