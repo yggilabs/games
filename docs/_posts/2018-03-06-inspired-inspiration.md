@@ -71,7 +71,7 @@ A facet is simply a word or short phrase which represents the fictional experien
 > 
 > Try to keep your facets distinct from each other. If two facets seem similar, Think about what makes them unique and highlight that difference.
  
-See Rundown,  [Gaining Facets](#gaining-facets-1)
+See Rundown, [Gaining Facets](#gaining-facets-1)
 
 
 
