@@ -41,7 +41,7 @@ If you want give your players a mechanical reason to become more involved in the
 
 > **Rule**
 > 
-> When your character undergoes a **significant change**, your character may gain a new **facet**.
+> When your character undergoes a [significant change](significant-change), your character may gain a new [facet](#facet).
 
 **Significant Change**
 
@@ -72,6 +72,8 @@ A facet is simply a word or short phrase which represents the fictional experien
 > When you gain a facet, the player and DM may create a new facet that is appropriate to the character, the setting, and the significant change. 
 > 
 > Try to keep your facets distinct from each other. If two facets seem similar, Think about what makes them unique and highlight that difference.
+> 
+> @see Rundown [Gaining Facets](#gaining-facets-1)
 
 
 
@@ -79,15 +81,17 @@ A facet is simply a word or short phrase which represents the fictional experien
 
 > **Rule**
 > 
-> When a player would make an attack roll, ability check or saving throw, they may choose to **invoke facet**. After the roll, the character gains inspiration.
+> When a player would make an attack roll, ability check or saving throw, they may choose to [invoke facet](#invoke-facet). After the roll, the character gains inspiration.
 
 **Invoke Facet**
 
-Describe how one of the character’s facets manifests in the situation. The DM will offer a **complication**. If the player agrees, the facet is invoked. Each facet may only be invoked in this way once per session.
+Describe how one of the character’s facets manifests in the situation. The DM will offer a [complication](#choosing-a-complication). If the player agrees, the facet is invoked. Each facet may only be invoked in this way once per session.
 
 > **Choosing a Complication**
 > 
 > The most basic complication is to give the triggering roll disadvantage. This is only applicable is the roll doesn’t already have disadvantage. Otherwise, You may offer a cost to the roll. Costs are always paid regardless of the outcome of a roll.
+> 
+> @see Rundown [Using Facets](#using-facets-1)
 
 
 ### Advanced Facets
@@ -123,11 +127,11 @@ A first level character will probably start off with two to five facets. Each le
 
 (Lenna is joining an ongoing game with her friend Josh as the DM. She was told to create a new character starting at level one. She shows up a few minutes ahead of time to sort out her facets before the game.)
 
-**Lenna:** I’m done with Finellen. She’s a dwarf cleric of the light. Can we make her some facets?
+**Lenna:** I’m done with Finellen. She’s a dwarf cleric of the light. Can we make her some [facets](#gaining-facets)?
 
 **Josh:** Of course!
 
-**Josh:** First off, we decided dwarves start with the down to earth facet.
+**Josh:** First off, we decided [dwarves](#facets-for-everything) start with the down to earth facet.
 
 **Lenna:** Is that a short joke?
 
@@ -135,7 +139,7 @@ A first level character will probably start off with two to five facets. Each le
 
 **Lenna:** That doesn’t sound like Finellen at all. She’s kind of a hot head and always wants to be the center of attention.
 
-**Josh:** That’s fine she still gets the facet. Even if Finellen isn’t down to earth, it will be a fairly common assumption made about her. You can play against the facet, ignore it, or just get rid of it.
+**Josh:** That’s fine she still gets the facet. Even if Finellen isn’t down to earth, it will be a fairly common assumption made about her. You can play against the facet, [ignore it](#ignoring-facets), or just [get rid of it](#just-say-no).
 
 **Lenna:** She’s a bit of rebel. I’ll keep it for now and surprise people with how different she really is.
 
@@ -187,13 +191,13 @@ A first level character will probably start off with two to five facets. Each le
 
 **DM:** Okay, I’ll need an athletics check to get up the tree, it’s been raining.
 
-**Steve:** Actually, I want to impress Finellen. I’m invoking my show off facet.
+**Steve:** Actually, I want to impress Finellen. I’m [invoking](#invoke-facet) my show off facet.
 
 **DM:** Sure, how are you showing off?
 
 **Steve:** Instead of climbing the tree normally, I want to run up the side and flip onto a branch. Also, I wink.
 
-**DM:** Okay, I have a good cost. When you flip onto the branch your arrows fall out of your quiver. When you reach into your quiver next time you find only two arrows remain.
+**DM:** Okay, I have a good [cost](#choosing-a-complication). When you flip onto the branch your arrows fall out of your quiver. When you reach into your quiver next time you find only two arrows remain.
 
 **Steve:** More than enough for this orc.
 
@@ -244,13 +248,18 @@ In earlier examples, we looked at play examples including two characters, Steve 
 
 ## Changelog
 
-### [2.0.0] - 2018-11-16
+### [1.0.1] - 2018-11-27
+**Updated**
+* minor typos
+
+**Added**
+* hyperlinks to rundowns in appropriate explanation sections
+* hyperlinks to relevant rules when they come up 
+
+### [1.0.0] - 2018-11-16
 **Updated**
 * reformatted from homebrewery.org to more generic markdown
 
-### [1.0.0]- 2018-03-06
-**Added**
-* intial release
 
 
 
