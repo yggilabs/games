@@ -39,11 +39,9 @@ If you want give your players a mechanical reason to become more involved in the
 
 ### Gaining Facets
 
-> **Rule**
-> 
-> When your character undergoes a [significant change](significant-change), your character may gain a new [facet](#facet).
+*When your character undergoes a [significant change](#significant-change), your character may gain a new [facet](#facet).*
 
-**Significant Change**
+#### Significant Change
 
 A significant change may be either a mechanical or narrative change with a substantial impact on your character. 
 
@@ -63,7 +61,7 @@ Narrative changes may include:
 
 Don't forget about new characters. A character becoming a level one adventurer is surely a significant change for them.
 
-**Facet**
+#### Facet
 
 A facet is simply a word or short phrase which represents the fictional experience of your character.
 
@@ -79,15 +77,13 @@ A facet is simply a word or short phrase which represents the fictional experien
 
 ### Using Facets
 
-> **Rule**
-> 
-> When a player would make an attack roll, ability check or saving throw, they may choose to [invoke facet](#invoke-facet). After the roll, the character gains inspiration.
+*When a player would make an attack roll, ability check or saving throw, they may choose to [invoke facet](#invoke-facet). After the roll, the character gains inspiration.*
 
-**Invoke Facet**
+#### Invoke Facet
 
 Describe how one of the character’s facets manifests in the situation. The DM will offer a [complication](#choosing-a-complication). If the player agrees, the facet is invoked. Each facet may only be invoked in this way once per session.
 
-> **Choosing a Complication**
+> #### Choosing a Complication
 > 
 > The most basic complication is to give the triggering roll disadvantage. This is only applicable is the roll doesn’t already have disadvantage. Otherwise, You may offer a cost to the roll. Costs are always paid regardless of the outcome of a roll.
 > 
