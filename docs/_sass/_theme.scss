@@ -15,6 +15,9 @@
   --menu-button_opacity: .8;
   --menu-button_border-radius: .75em;
   --menu-button_background-color: var(--colors__dark);
+
+  --patreon-button_color: var(--colors__light);
+  --patreon-button_background-color: var(--colors__highlight);
 }
 
 .site__nav {
@@ -39,6 +42,20 @@
   margin-top: 24px;
   font-weight: 600;
   line-height: 1.25;
+}
+
+.patreon-button {
+  background-color: var(--patreon-button_background-color, --colors__highlight);
+  height: 36px;
+  width: 175px;
+  text-align: center;
+}
+
+.patreon-button:before {
+  content: 'become a patron';
+  text-transform: capitalize;
+  font-size: 18px;
+  color: var(--patreon-button_color, --colors__light);
 }
 
 .tags {
