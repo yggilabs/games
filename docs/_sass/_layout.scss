@@ -1,7 +1,7 @@
 :root {
   --site_grid-template-columns: 25% 75%;
-  --site_grid-template-rows: 75px auto auto auto;
-  --site_grid-template-areas: ". ." ". hero" "nav content" "footer footer";
+  --site_grid-template-rows: 75px auto auto auto auto;
+  --site_grid-template-areas: ". ." ". hero" "nav content" "footer footer" ". patrons";
 
   --site__header_position: fixed;
   --site__header_height: 75px;
@@ -22,8 +22,8 @@
 @media (max-width: 1024px) {
   :root {
     --site_grid-template-columns: 1fr;
-    --site_grid-template-rows: auto auto auto auto;
-    --site_grid-template-areas: "header" "hero" "content" "footer";
+    --site_grid-template-rows: auto auto auto auto auto;
+    --site_grid-template-areas: "header" "hero" "content" "footer" "patrons";
 
     --site__header__button_display: block;
     --site__header__h1_text-align: left;
@@ -90,6 +90,16 @@
   grid-area: footer;
   padding-top: 24px;
   height: var(--site__footer_height);
+}
+
+.site__patrons {
+  grid-area: patrons;
+  padding-left: var(--site__content_padding-left);
+  padding-right: var(--site__content_padding-right);
+}
+
+.site__patrons ul {
+  column-width: 400px;
 }
 
 .menu-button {
