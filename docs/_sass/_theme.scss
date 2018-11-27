@@ -87,7 +87,7 @@
   opacity: .5;
 }
 
-a.permalink:hover {
+a.permalink:hover::before {
   text-decoration: none;
   opacity: 1;
 }
