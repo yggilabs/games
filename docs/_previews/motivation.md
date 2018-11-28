@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Project Graph | Motivation
-published: false
-categories: ["Project Graph"]
+categories: [Project Graph]
 tags: [abstract, graphs, story-rich]
 
 ---
@@ -26,4 +25,3 @@ tags: [abstract, graphs, story-rich]
 <p>This example shows how graphs can be used to describe an existing story. What if, we could instead create a tangled messy web of relationships first? what if we could then use this graph prescriptively to generate a story. We could trace arbitrary paths in our map to see hidden stories that would otherwise go unnoticed.</p>
 <p>If we can devise a system for simply constructing these graphs, it will be a first step towards generating these emergent stories. That’s the next article!</p>
 <p>{% include jargon.html %}</p>
-
