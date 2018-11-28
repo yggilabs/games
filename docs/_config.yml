@@ -41,9 +41,9 @@ logo: /images/icon.svg
 baseurl: /games
 permalink: none
 analytics: false # url parameters are acting wierd
-collections:
-  previews:
-    output: true
+# collections:
+#   previews:
+#     output: true
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
