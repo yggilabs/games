@@ -1,12 +1,48 @@
-baseurl: /games
-permalink: none
 introduction: This is the home of YggiGames. Here you will find the results of tinkering with, hacking and creating various games. Some of what you find here may even be tested. Enjoy!
 footer: Made with ☕ in Minneapolis. &copy;2018  Sam Kelley
-description: The newest creations from YggiGames
+
+# manifest file stuff
 short_name: YggiGames
 name: YggiGames Blog
 theme_color: "#DB3B1E"
-analytics: false
+
+# seo stuff
+# @see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+title: YggiGames Blog
+description: The newest creations from YggiGames
+# url: # default: site.github.url
+author: Sam Kelley
+# twitter:
+#   username: benbalter
+#   card: summary
+# facebook:
+#   app_id: 1234
+#   publisher: 1234
+#   admins: 1234
+logo: /images/logo.png
+# social:
+#   name: Ben Balter
+#   links:
+#     - https://twitter.com/BenBalter
+#     - https://www.facebook.com/ben.balter
+#     - https://www.linkedin.com/in/BenBalter
+#     - https://plus.google.com/+BenBalter
+#     - https://github.com/benbalter
+#     - https://keybase.io/benbalter
+# google_site_verification:
+# webmaster_verifications:
+#   google: 1234
+#   bing: 1234
+#   alexa: 1234
+#   yandex: 1234
+#   baidu: 1234
+# lang: # default: en_US
+
+baseurl: /games
+permalink: none
+analytics: false # url parameters are acting wierd
+plugins:
+  - jekyll-seo-tag
 sass:
   sass_dir: _sass
   style: compressed
