@@ -45,21 +45,17 @@ If you want give your players a mechanical reason to become more involved in the
 
 A significant change may be either a mechanical or narrative change with a substantial impact on your character. 
 
-> Mechanical changes may include:
+> #### Choosing to Change
+>
+> These are some changes you may consider significant enough to gain a facet for. Though, the decision is ultimately up to your group.
+>  
 > * gaining a class feature
 > * learning a new feat 
 > * gaining a racial feature
->
-> When you want to write something on your character sheet, there is a good chance it is a mechanical change. It's significance is up to you.
->
-> Narrative changes may include:
 > * receiving the boon of a god
 > * stealing the bounty of a dragon's horde
 > * earning the ire of a scorned lover
->
-> When you want to write something in notebook, there is a good chance it is or will lead to a narrative change. It's significance is up to you.
->
-> Don't forget about new characters. A character becoming a level one adventurer is surely a significant change for them.
+> * setting out on a new adventuring life
 
 #### Facet
 
@@ -71,7 +67,7 @@ A facet is simply a word or short phrase which represents the fictional experien
 > 
 > Try to keep your facets distinct from each other. If two facets seem similar, Think about what makes them unique and highlight that difference.
  
-See Rundown,  [Gaining Facets](#gaining-facets-1)
+See Rundown, [Gaining Facets](#gaining-facets-1)
 
 
 
@@ -96,7 +92,7 @@ See Rundown, [Using Facets](#using-facets-1)
 
 Anything can have facets, not just player characters. Non-player characters, groups of characters, even environments can all have facets if you want. 
 
-Perhaps, you imagine elves in your setting are quick-tempered. Give elves the quick-tempered facet. Alternatively, ask a player who has created or otherwise thought about elves for their thoughts. When you or a player create a new elf character give them the quick-tempered facet. Of course, not all elves are quick-tempered. If you want an elf that is level-headed, read the section Ignoring Facets.
+Perhaps, you imagine elves in your setting are quick-tempered. Give elves the quick-tempered facet. Alternatively, ask a player who has created or otherwise thought about elves for their ideas. When you or a player create a new elf character give them the quick-tempered facet. Of course, not all elves are quick-tempered. If you want an elf that is level-headed, read the section Ignoring Facets.
 
 This principle applies to other things as well. For example, you might give facets to groups such as cities, factions, monastic orders, etc. When a character is created with a strong association to a group give that character the facets of that group.
 
@@ -251,6 +247,10 @@ In earlier examples, we looked at play examples including two characters, Steve 
 **Added**
 * hyperlinks to rundowns in appropriate explanation sections
 * hyperlinks to relevant rules when they come up 
+* new section choosing to change
+
+**Removed**
+* significant change advice
 
 ### [1.0.0] - 2018-11-16
 **Updated**
