@@ -42,7 +42,7 @@ baseurl: /games
 permalink: none
 analytics: false # url parameters are acting wierd
 collections:
-  drafts:
+  previews:
     output: true
 plugins:
   - jekyll-seo-tag
