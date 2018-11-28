@@ -3,10 +3,18 @@
 {
   "short_name": "{{ site.short_name }}",
   "name": "{{ site.name }}",
-  "icons": {
-    "192": "{{ site.baseurl }}/images/icon.svg",
-    "512": "{{ site.baseurl }}/images/icon.svg"    
-  },
+  "icons": [
+    {
+      "src": "{{ site.baseurl }}/images/icon.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "{{ site.baseurl }}/images/icon.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    }
+  ],
   "start_url": "{{ site.baseurl }}/?source=pwa",
   "background_color": "{{site.theme_color}}",
   "display": "standalone",
