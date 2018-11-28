@@ -43,6 +43,7 @@ permalink: none
 analytics: false # url parameters are acting wierd
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 sass:
   sass_dir: _sass
   style: compressed
