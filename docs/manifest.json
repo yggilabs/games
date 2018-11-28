@@ -7,7 +7,7 @@
     {
       "src": "{{ site.baseurl }}/images/icon.svg",
       "type": "image/svg",
-      "sizes": "576x512"
+      "sizes": "768x768"
     }
   ],
   "start_url": "{{ site.baseurl }}/?source=pwa",
