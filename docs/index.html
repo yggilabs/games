@@ -20,7 +20,7 @@ title: Home
 
 
 <div class="posts">
-  {% assign sorted = (site.drafts | sort: 'date') | reverse %}
+  {% assign sorted = (site.previews | sort: 'date') | reverse %}
   {% for draft in sorted %}
     <div class="post py2">
       <p class="post-meta h5">{{ draft.date | date: site.date_format }}</p>
