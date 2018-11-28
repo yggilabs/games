@@ -19,9 +19,8 @@ title: Home
 </article>
 
 
-<div class="posts">
-  {% assign sorted = (site.previews | sort: 'date') | reverse %}
-  {% for draft in sorted %}
+<!-- <div class="posts">
+  {% for draft in site.previews %}
     <div class="post py2">
       <p class="post-meta h5">{{ draft.date | date: site.date_format }}</p>
       <a href="{{ draft.url }}" class="post-link"><h3 class="post-title">{{ draft.title }}</h3></a>
@@ -34,4 +33,4 @@ title: Home
       {% endif %}
     </div>
   {% endfor %}
-</div>
+</div> -->
